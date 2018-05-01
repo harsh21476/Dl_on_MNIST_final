@@ -1,0 +1,4 @@
+batch_size,200
+epochs,3
+optimizer,<keras.optimizers.Adadelta object at 0x7f2020796dd8>
+learning_rate,1.0

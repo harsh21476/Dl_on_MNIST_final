@@ -1,0 +1,4 @@
+batch_size,1000
+epochs,100
+optimizer,<keras.optimizers.RMSprop object at 0x7f8a6c9d59e8>
+learning_rate,0.001

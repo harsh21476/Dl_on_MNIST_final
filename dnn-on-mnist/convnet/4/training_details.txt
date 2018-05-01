@@ -1,0 +1,4 @@
+batch_size,1000
+epochs,100
+optimizer,<keras.optimizers.SGD object at 0x7f27cdbeaa58>
+learning_rate,0.001
